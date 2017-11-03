@@ -1,4 +1,4 @@
-﻿<!DOCTYPE HTML>
+<?php if (!defined('THINK_PATH')) exit();?>﻿<!DOCTYPE HTML>
 <html>
 <head>
 <meta charset="utf-8">
@@ -7,15 +7,15 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
 <meta http-equiv="Cache-Control" content="no-siteapp" />
 <!--[if lt IE 9]>
-<script type="text/javascript" src="__PUBLIC__/HOME/lib/html5shiv.js"></script>
-<script type="text/javascript" src="__PUBLIC__/HOME/lib/respond.min.js"></script>
+<script type="text/javascript" src="/Public/HOME/lib/html5shiv.js"></script>
+<script type="text/javascript" src="/Public/HOME/lib/respond.min.js"></script>
 <![endif]-->
-<link href="__PUBLIC__/HOME/static/h-ui/css/H-ui.min.css" rel="stylesheet" type="text/css" />
-<link href="__PUBLIC__/HOME/static/h-ui.admin/css/H-ui.login.css" rel="stylesheet" type="text/css" />
-<link href="__PUBLIC__/HOME/static/h-ui.admin/css/style.css" rel="stylesheet" type="text/css" />
-<link href="__PUBLIC__/HOME/lib/Hui-iconfont/1.0.8/iconfont.css" rel="stylesheet" type="text/css" />
+<link href="/Public/HOME/static/h-ui/css/H-ui.min.css" rel="stylesheet" type="text/css" />
+<link href="/Public/HOME/static/h-ui.admin/css/H-ui.login.css" rel="stylesheet" type="text/css" />
+<link href="/Public/HOME/static/h-ui.admin/css/style.css" rel="stylesheet" type="text/css" />
+<link href="/Public/HOME/lib/Hui-iconfont/1.0.8/iconfont.css" rel="stylesheet" type="text/css" />
 <!--[if IE 6]>
-<script type="text/javascript" src="__PUBLIC__/HOME/lib/DD_belatedPNG_0.0.8a-min.js" ></script>
+<script type="text/javascript" src="/Public/HOME/lib/DD_belatedPNG_0.0.8a-min.js" ></script>
 <script>DD_belatedPNG.fix('*');</script>
 <![endif]-->
 <title>SO简历后台登录</title>
@@ -63,9 +63,9 @@
   </div>
 </div>
 <div class="footer">Copyright SO简历</div>
-<script type="text/javascript" src="__PUBLIC__/HOME/lib/jquery/1.9.1/jquery.min.js"></script>
-<script type="text/javascript" src="__PUBLIC__/HOME/lib/layer/2.4/layer.js"></script>
-<script type="text/javascript" src="__PUBLIC__/HOME/static/h-ui/js/H-ui.min.js"></script>
-<script type="text/javascript" src="__PUBLIC__/HOME/js/login.js"></script>
+<script type="text/javascript" src="/Public/HOME/lib/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="/Public/HOME/lib/layer/2.4/layer.js"></script>
+<script type="text/javascript" src="/Public/HOME/static/h-ui/js/H-ui.min.js"></script>
+<script type="text/javascript" src="/Public/HOME/js/login.js"></script>
 </body>
 </html>

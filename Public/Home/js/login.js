@@ -3,7 +3,7 @@ $("#login").click(function(){
     var pass = $("#pass").val();
     var verify = $("#verify").val();
     $.ajax({
-        url:"/so/Home/Login/login",
+        url:"/Home/Login/login",
         type:"post",
         dataType:"json",
         data:{
@@ -14,7 +14,7 @@ $("#login").click(function(){
         success:function(json){
                 if(json.code==0){
                     layer.msg(json.msg);
-                    window.location.href = '/so/Home/Index/index';
+                    window.location.href = '/Home/Index/index';
                 }else{
                     layer.msg(json.msg);
                     return false;

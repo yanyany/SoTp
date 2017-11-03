@@ -1,0 +1,1329 @@
+[ 2017-11-03T23:16:49+08:00 ] 127.0.0.1 /SoTp/
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+
+[ 2017-11-03T23:18:05+08:00 ] 127.0.0.1 /Home/Login/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.123007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.022002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.024002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.023001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.025001s ]
+
+[ 2017-11-03T23:32:41+08:00 ] 127.0.0.1 /Home/Login/verify_c
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.019001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020001s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.017001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017001s ]
+
+[ 2017-11-03T23:32:50+08:00 ] 127.0.0.1 /Home/Login/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.054003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.016001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-11-03T23:32:51+08:00 ] 127.0.0.1 /Home/Login/verify_c
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-11-03T23:33:13+08:00 ] 127.0.0.1 /Home/Login/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.061003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-11-03T23:33:14+08:00 ] 127.0.0.1 /Home/Login/verify_c
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-11-03T23:33:26+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.88508463277569
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:33:27+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.6027718936940918
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2017-11-03T23:33:49+08:00 ] 127.0.0.1 /Home/Login/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-11-03T23:33:49+08:00 ] 127.0.0.1 /Home/Login/verify_c
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2017-11-03T23:34:03+08:00 ] 127.0.0.1 /Home/Login/login
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.028002s ]
+ERR: 1146:La table 'sos.s_login' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_login`
+SQL: SHOW COLUMNS FROM `s_user` [ RunTime:0.123007s ]
+SQL: SELECT * FROM `s_user` WHERE ( phone=18311161659 )  [ RunTime:0.001000s ]
+ERR: 1054:Champ 'phone' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `s_user` WHERE ( phone=18311161659 ) 
+
+[ 2017-11-03T23:35:08+08:00 ] 127.0.0.1 /Home/Login/login
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+
+[ 2017-11-03T23:35:54+08:00 ] 127.0.0.1 /Home/Login/login
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+
+[ 2017-11-03T23:36:04+08:00 ] 127.0.0.1 /Home/Login/login
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+
+[ 2017-11-03T23:36:05+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.6983428212340792
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:36:11+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.528262133549817
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:36:13+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.8985295389413437
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:36:14+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.2365669164794828
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:36:19+08:00 ] 127.0.0.1 /Home/Login/login
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+
+[ 2017-11-03T23:36:24+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.10452553455712899
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:36:30+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.9005294763053284
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:36:31+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.06823065397218597
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2017-11-03T23:36:33+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.05180279911678998
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:36:39+08:00 ] 127.0.0.1 /Home/Login/login
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.010000s ]
+ERR: 1146:La table 'sos.s_login' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_login`
+SQL: SHOW COLUMNS FROM `s_user` [ RunTime:0.012001s ]
+SQL: SELECT * FROM `s_user` WHERE ( phone=18311161659 )  [ RunTime:0.001000s ]
+ERR: 1054:Champ 'phone' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `s_user` WHERE ( phone=18311161659 ) 
+SQL: SHOW COLUMNS FROM `s_user` [ RunTime:0.012001s ]
+
+[ 2017-11-03T23:37:30+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.6513631602035095
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-11-03T23:37:35+08:00 ] 127.0.0.1 /Home/Login/login
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.010000s ]
+ERR: 1146:La table 'sos.s_login' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_login`
+SQL: SHOW COLUMNS FROM `s_user` [ RunTime:0.012001s ]
+SQL: SELECT * FROM `s_user` WHERE ( phone=18311161659 )  [ RunTime:0.001000s ]
+ERR: 1054:Champ 'phone' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `s_user` WHERE ( phone=18311161659 ) 
+
+[ 2017-11-03T23:37:57+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.19391123256028497
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-11-03T23:37:58+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.5045812156247487
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2017-11-03T23:38:05+08:00 ] 127.0.0.1 /Home/Login/login
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.010001s ]
+ERR: 1146:La table 'sos.s_login' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_login`
+
+[ 2017-11-03T23:38:51+08:00 ] 127.0.0.1 /Home/Login/login
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+
+[ 2017-11-03T23:38:53+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.12318148492249925
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:38:55+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.5043133334873853
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-11-03T23:39:03+08:00 ] 127.0.0.1 /Home/Login/login
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+
+[ 2017-11-03T23:39:04+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.5107425274447179
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:39:06+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.31194265693368295
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:39:08+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.7481523082525703
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:39:09+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.4346011884979606
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-11-03T23:39:11+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.3213926230412163
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:39:17+08:00 ] 127.0.0.1 /Home/Login/login
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.011001s ]
+ERR: 1146:La table 'sos.s_login' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_login`
+SQL: SHOW COLUMNS FROM `s_user` [ RunTime:0.012000s ]
+SQL: SELECT * FROM `s_user` WHERE ( phone=18311161659 )  [ RunTime:0.002000s ]
+ERR: 1054:Champ 'phone' inconnu dans where clause
+ [ SQL语句 ] : SELECT * FROM `s_user` WHERE ( phone=18311161659 ) 
+
+[ 2017-11-03T23:39:44+08:00 ] 127.0.0.1 /Home/Index/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+
+[ 2017-11-03T23:39:44+08:00 ] 127.0.0.1 /Home/Login/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.027001s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.082005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.083005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.015000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.012000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013000s ]
+
+[ 2017-11-03T23:39:44+08:00 ] 127.0.0.1 /Home/Login/verify_c
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-11-03T23:42:13+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.9656272334439515
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008001s ]
+
+[ 2017-11-03T23:42:14+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.6853025822281946
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.006001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
+[ 2017-11-03T23:42:15+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.7738329260378163
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2017-11-03T23:42:18+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.5519111743209668
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-11-03T23:42:23+08:00 ] 127.0.0.1 /Home/Login/login
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.010000s ]
+ERR: 1146:La table 'soso.s_login' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_login`
+SQL: SHOW COLUMNS FROM `s_user` [ RunTime:0.012001s ]
+SQL: SELECT * FROM `s_user` WHERE ( phone=18311161659 )  [ RunTime:0.015001s ]
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.009001s ]
+ERR: 1146:La table 'soso.s_login' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_login`
+SQL: INSERT INTO `s_login` (`loginIp`,`loginTime`,`userId`) VALUES ('127.0.0.1',1509723743,'1') [ RunTime:0.001000s ]
+ERR: 1146:La table 'soso.s_login' n'existe pas
+ [ SQL语句 ] : INSERT INTO `s_login` (`loginIp`,`loginTime`,`userId`) VALUES ('127.0.0.1',1509723743,'1')
+
+[ 2017-11-03T23:42:39+08:00 ] 127.0.0.1 /Home/Index/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.078004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.022002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:42:39+08:00 ] 127.0.0.1 /Home/Index/welcome.html
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_index` [ RunTime:0.016001s ]
+ERR: 1146:La table 'soso.s_index' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_index`
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.014001s ]
+ERR: 1146:La table 'soso.s_login' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_login`
+SQL: SELECT COUNT(*) AS tp_count FROM `s_login` WHERE ( userId=1 ) LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1146:La table 'soso.s_login' n'existe pas
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `s_login` WHERE ( userId=1 ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.074004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:42:53+08:00 ] 127.0.0.1 /Home/Company/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_company` [ RunTime:0.013001s ]
+SQL: SHOW COLUMNS FROM `s_company` [ RunTime:0.013000s ]
+SQL: SELECT * FROM `s_company`  [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: name D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 56 行.
+NOTIC: [8] Undefined index: corporation D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 57 行.
+NOTIC: [8] Undefined index: create_time D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 61 行.
+NOTIC: [8] Undefined index: status D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 63 行.
+NOTIC: [8] Undefined index: status D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 64 行.
+NOTIC: [8] Undefined index: status D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 65 行.
+NOTIC: [8] Undefined index: status D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 66 行.
+NOTIC: [8] Undefined index: name D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 68 行.
+NOTIC: [8] Undefined index: name D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 68 行.
+NOTIC: [8] Undefined index: status D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 70 行.
+NOTIC: [8] Undefined index: status D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 71 行.
+NOTIC: [8] Undefined index: status D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 72 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.115007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.115007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:43:01+08:00 ] 127.0.0.1 /Home/company/department?id=11&name=
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_companydepartment` [ RunTime:0.013000s ]
+ERR: 1146:La table 'soso.s_companydepartment' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_companydepartment`
+SQL: SHOW COLUMNS FROM `s_companydepartment` [ RunTime:0.014001s ]
+ERR: 1146:La table 'soso.s_companydepartment' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_companydepartment`
+SQL: SELECT * FROM `s_companydepartment` WHERE ( `company_id` = '11' )  [ RunTime:0.002001s ]
+ERR: 1146:La table 'soso.s_companydepartment' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `s_companydepartment` WHERE ( `company_id` = '11' ) 
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.051003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:45:15+08:00 ] 127.0.0.1 /Home/Index/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-11-03T23:45:15+08:00 ] 127.0.0.1 /Home/Index/welcome.html
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_index` [ RunTime:0.016001s ]
+ERR: 1146:La table 'soso.s_index' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_index`
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.015001s ]
+ERR: 1146:La table 'soso.s_login' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_login`
+SQL: SELECT COUNT(*) AS tp_count FROM `s_login` WHERE ( userId=1 ) LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1146:La table 'soso.s_login' n'existe pas
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `s_login` WHERE ( userId=1 ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.040003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-11-03T23:45:18+08:00 ] 127.0.0.1 /Home/Login/record
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.010001s ]
+ERR: 1146:La table 'soso.s_login' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_login`
+SQL: SELECT COUNT(*) AS tp_count FROM `s_login` LIMIT 1   [ RunTime:0.002000s ]
+ERR: 1146:La table 'soso.s_login' n'existe pas
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `s_login` LIMIT 1  
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.012000s ]
+ERR: 1146:La table 'soso.s_login' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_login`
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.013001s ]
+ERR: 1146:La table 'soso.s_login' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_login`
+SQL: SELECT cn.*,n.*,cn.id as login_id FROM s_login as cn INNER JOIN s_user as n ON cn.userId = n.id  ORDER BY cn.id desc LIMIT 0,5   [ RunTime:0.002000s ]
+ERR: 1146:La table 'soso.s_login' n'existe pas
+ [ SQL语句 ] : SELECT cn.*,n.*,cn.id as login_id FROM s_login as cn INNER JOIN s_user as n ON cn.userId = n.id  ORDER BY cn.id desc LIMIT 0,5  
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.055004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-11-03T23:48:39+08:00 ] 127.0.0.1 /Home/Index/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:48:39+08:00 ] 127.0.0.1 /Home/Index/welcome.html
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_index` [ RunTime:0.013001s ]
+ERR: 1146:La table 'soso.s_index' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_index`
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.018001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `s_login` WHERE ( userId=1 ) LIMIT 1   [ RunTime:0.029002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.040003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-11-03T23:48:46+08:00 ] 127.0.0.1 /Home/Index/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.035002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2017-11-03T23:48:47+08:00 ] 127.0.0.1 /Home/Index/welcome.html
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_index` [ RunTime:0.039003s ]
+ERR: 1146:La table 'soso.s_index' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_index`
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.016001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `s_login` WHERE ( userId=1 ) LIMIT 1   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-11-03T23:48:47+08:00 ] 127.0.0.1 /Home/Index/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.060003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.006001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-11-03T23:48:48+08:00 ] 127.0.0.1 /Home/Index/welcome.html
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_index` [ RunTime:0.012000s ]
+ERR: 1146:La table 'soso.s_index' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_index`
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.016001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `s_login` WHERE ( userId=1 ) LIMIT 1   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.036002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2017-11-03T23:48:48+08:00 ] 127.0.0.1 /Home/Index/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.009001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.011001s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.075004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.004001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.013000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019001s ]
+
+[ 2017-11-03T23:48:48+08:00 ] 127.0.0.1 /Home/Index/welcome.html
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_index` [ RunTime:0.015001s ]
+ERR: 1146:La table 'soso.s_index' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_index`
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.017001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `s_login` WHERE ( userId=1 ) LIMIT 1   [ RunTime:0.006000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.041003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-11-03T23:49:09+08:00 ] 127.0.0.1 /Home/Index/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.041003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-11-03T23:49:09+08:00 ] 127.0.0.1 /Home/Index/welcome.html
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_index` [ RunTime:0.020001s ]
+ERR: 1146:La table 'soso.s_index' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_index`
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.015001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `s_login` WHERE ( userId=1 ) LIMIT 1   [ RunTime:0.005001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.002001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003001s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.059003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-11-03T23:49:09+08:00 ] 127.0.0.1 /Home/Index/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.061004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.009001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011001s ]
+
+[ 2017-11-03T23:49:10+08:00 ] 127.0.0.1 /Home/Index/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.054003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-11-03T23:49:10+08:00 ] 127.0.0.1 /Home/Index/welcome.html
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030002s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_index` [ RunTime:0.028002s ]
+ERR: 1146:La table 'soso.s_index' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_index`
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.017001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `s_login` WHERE ( userId=1 ) LIMIT 1   [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.042003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-11-03T23:49:10+08:00 ] 127.0.0.1 /Home/Index/welcome.html
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_index` [ RunTime:0.013001s ]
+ERR: 1146:La table 'soso.s_index' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_index`
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.019001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `s_login` WHERE ( userId=1 ) LIMIT 1   [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.037002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:49:13+08:00 ] 127.0.0.1 /Home/Login/logout
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:49:17+08:00 ] 127.0.0.1 /Home/Login/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.053003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-11-03T23:49:17+08:00 ] 127.0.0.1 /Home/Login/verify_c
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-11-03T23:49:26+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.07133531528221204
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-11-03T23:49:28+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.20799772837208264
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-11-03T23:49:29+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.40569141647976315
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-11-03T23:49:30+08:00 ] 127.0.0.1 /Home/Login/verify_c?0.42543509493199183
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-11-03T23:49:37+08:00 ] 127.0.0.1 /Home/Login/login
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 11 行.
+NOTIC: [8] Undefined index: HOME_USER D:\wamp\www\so\SoTp\Application\Home\Controller\BaseController.class.php 第 14 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.011000s ]
+SQL: SHOW COLUMNS FROM `s_user` [ RunTime:0.011000s ]
+SQL: SELECT * FROM `s_user` WHERE ( phone=18311161659 )  [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.011001s ]
+SQL: INSERT INTO `s_login` (`loginIp`,`loginTime`,`userId`) VALUES ('127.0.0.1',1509724176,1) [ RunTime:0.067004s ]
+
+[ 2017-11-03T23:49:37+08:00 ] 127.0.0.1 /Home/Index/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.043003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-11-03T23:49:37+08:00 ] 127.0.0.1 /Home/Index/welcome.html
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_index` [ RunTime:0.012001s ]
+ERR: 1146:La table 'soso.s_index' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_index`
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.012001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `s_login` WHERE ( userId=1 ) LIMIT 1   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.037002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-11-03T23:49:43+08:00 ] 127.0.0.1 /Home/Login/record
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.015001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `s_login` LIMIT 1   [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.014000s ]
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.013000s ]
+SQL: SELECT cn.*,n.*,cn.id as login_id FROM s_login as cn INNER JOIN s_user as n ON cn.userId = n.id  ORDER BY cn.id desc LIMIT 0,5   [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.047002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2017-11-03T23:50:31+08:00 ] 127.0.0.1 /Home/Login/record
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.011001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `s_login` LIMIT 1   [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.011001s ]
+SQL: SHOW COLUMNS FROM `s_login` [ RunTime:0.011000s ]
+SQL: SELECT cn.*,n.*,cn.id as login_id FROM s_login as cn INNER JOIN s_user as n ON cn.userId = n.id  ORDER BY cn.id desc LIMIT 0,5   [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.038002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2017-11-03T23:50:43+08:00 ] 127.0.0.1 /Home/Company/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_company` [ RunTime:0.012001s ]
+SQL: SHOW COLUMNS FROM `s_company` [ RunTime:0.013000s ]
+SQL: SELECT * FROM `s_company`  [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: name D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 56 行.
+NOTIC: [8] Undefined index: corporation D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 57 行.
+NOTIC: [8] Undefined index: create_time D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 61 行.
+NOTIC: [8] Undefined index: status D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 63 行.
+NOTIC: [8] Undefined index: status D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 64 行.
+NOTIC: [8] Undefined index: status D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 65 行.
+NOTIC: [8] Undefined index: status D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 66 行.
+NOTIC: [8] Undefined index: name D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 68 行.
+NOTIC: [8] Undefined index: name D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 68 行.
+NOTIC: [8] Undefined index: status D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 70 行.
+NOTIC: [8] Undefined index: status D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 71 行.
+NOTIC: [8] Undefined index: status D:\wamp\www\so\SoTp\Application\Runtime\Cache\Home\402280e8f7f08251c9fab1f13216cacd.php 第 72 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.059004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-11-03T23:57:42+08:00 ] 127.0.0.1 /Home/Company/index
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_company` [ RunTime:0.012000s ]
+SQL: SHOW COLUMNS FROM `s_company` [ RunTime:0.012001s ]
+SQL: SELECT * FROM `s_company`  [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.053003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-11-03T23:57:48+08:00 ] 127.0.0.1 /Home/company/department?id=11&name=%E5%8C%97%E4%BA%ACSo%E7%AE%80%E5%8E%86%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+NOTIC: [8] Use of undefined constant CHECK_LOGIN - assumed 'CHECK_LOGIN' D:\wamp\www\so\SoTp\Application\Home\Conf\login.php 第 9 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\so\SoTp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `s_companydepartment` [ RunTime:0.014001s ]
+ERR: 1146:La table 'soso.s_companydepartment' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_companydepartment`
+SQL: SHOW COLUMNS FROM `s_companydepartment` [ RunTime:0.013001s ]
+ERR: 1146:La table 'soso.s_companydepartment' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `s_companydepartment`
+SQL: SELECT * FROM `s_companydepartment` WHERE ( `company_id` = '11' )  [ RunTime:0.003000s ]
+ERR: 1146:La table 'soso.s_companydepartment' n'existe pas
+ [ SQL语句 ] : SELECT * FROM `s_companydepartment` WHERE ( `company_id` = '11' ) 
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.042003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
