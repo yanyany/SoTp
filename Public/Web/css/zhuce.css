@@ -1,0 +1,59 @@
+#left{
+	height: 350px;
+	background: url(../images/geren.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	float: left;
+	width: 333px;
+}
+#zhong{
+	height: 350px;
+	background: url(../images/qiye.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	float: left;
+	width: 333px;
+}
+#right{
+	height: 350px;
+	background: url(../images/xvexiao.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	float: left;
+	width: 333px;
+}
+.three{
+	margin-top: 150px;
+	margin-left: 102px;
+	text-align: center;
+	line-height: 38px;
+}
+.three a {
+	font-size: 25px;
+	font-family:"Simsun";
+	text-decoration: none;
+	color: #FFFFFF;
+	display: block;
+	width: 130px;
+	height: 30px;
+	background: rgba(0,0,0,0.15);
+}
+.three a:hover{
+	color: #888888;
+	background: rgba(0,0,0,0.20);
+}
+.wenzi{
+	width: 180px;
+	float: left;
+	font-size: 20px;
+	margin: 50px 76px;
+	line-height: 50px;
+	letter-spacing: 2px;
+}
+#hei{
+	background: #000000;
+	width: 1000px;
+	height: 2px;
+	float: left;
+	margin-top: 40px;
+}

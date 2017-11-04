@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<?php if (!defined('THINK_PATH')) exit();?>﻿<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -11,23 +11,23 @@
 	<meta name="description" content="" />
 	<meta name="author" content="" />
 
-	<link rel="stylesheet" href="__PUBLIC__/Web/css/style.css" media="screen" />
+	<link rel="stylesheet" href="/Public/Web/css/style.css" media="screen" />
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700" />
-	<link rel="stylesheet" href="__PUBLIC__/Web/css/flexslider.css" media="screen" />
+	<link rel="stylesheet" href="/Public/Web/css/flexslider.css" media="screen" />
 
-	<script src="__PUBLIC__/Web/js/jquery-1.7.2.min.js"></script>
-	<script src="__PUBLIC__/Web/js/jQuery.BlackAndWhite.min.js"></script>
-	<script src="__PUBLIC__/Web/js/jquery.easing-1.3.min.js"></script>
-	<script src="__PUBLIC__/Web/js/jquery.flexslider-min.js"></script>
-	<script src="__PUBLIC__/Web/js/jquery.isotope.min.js"></script>
-	<script src="__PUBLIC__/Web/js/jquery.jcarousel.min.js"></script>
-	<script src="__PUBLIC__/Web/js/jquery.touchSwipe.min.js"></script>
-	<script src="__PUBLIC__/Web/js/respond.min.js"></script>
-	<script src="__PUBLIC__/Web/js/selectnav.min.js"></script>
-	<script src="__PUBLIC__/Web/js/custom.js"></script>
+	<script src="/Public/Web/js/jquery-1.7.2.min.js"></script>
+	<script src="/Public/Web/js/jQuery.BlackAndWhite.min.js"></script>
+	<script src="/Public/Web/js/jquery.easing-1.3.min.js"></script>
+	<script src="/Public/Web/js/jquery.flexslider-min.js"></script>
+	<script src="/Public/Web/js/jquery.isotope.min.js"></script>
+	<script src="/Public/Web/js/jquery.jcarousel.min.js"></script>
+	<script src="/Public/Web/js/jquery.touchSwipe.min.js"></script>
+	<script src="/Public/Web/js/respond.min.js"></script>
+	<script src="/Public/Web/js/selectnav.min.js"></script>
+	<script src="/Public/Web/js/custom.js"></script>
 	<script type="text/javascript" src="http://rework.reworkmedia.net/[JS library]"></script>
 	<!--[if (gte IE 6)&(lte IE 8)]>
-	<script type="text/javascript" src="__PUBLIC__/Web/js/selectivizr-min.js"></script>
+	<script type="text/javascript" src="/Public/Web/js/selectivizr-min.js"></script>
 	<noscript><link rel="stylesheet" href="http://rework.reworkmedia.net/[fallback css]" /></noscript>
 	<![endif]-->
 
@@ -76,14 +76,14 @@
 	<!-- Header -->
 	<div id="header" class="container clearfix">
 
-		<a href="./index.html" id="logo"><img src="__PUBLIC__/Web/images/logo.png" alt="" style="width:300px;height:100px"/></a>
+		<a href="./index.html" id="logo"><img src="/Public/Web/images/logo.png" alt="" style="width:300px;height:100px"/></a>
 
 		<!-- Navigation -->
 		<ul id="navigation">
 			<li class="current">
 				<a href="./index.html">首页</a>
 				<ul>
-					<li><a href="__PUBLIC__/Web/homepage_v2.html">Simple Version</a></li>
+					<li><a href="/Public/Web/homepage_v2.html">Simple Version</a></li>
 				</ul>
 			</li>
 			<li>
@@ -145,19 +145,19 @@
 		<div id="main-slider" class="flexslider">
 			<ul class="slides">
 				<li>
-					<img src="__PUBLIC__/Web/images/dahai.jpg" alt="" />
+					<img src="/Public/Web/images/dahai.jpg" alt="" />
 					<!--   <div class="flex-caption">
                            <h3>Responsive Design</h3> <p>Duis fermentum auctor ligula ac malesuada. Mauris et metus odio, in pulvinar urna</p> <input type="submit" value="Learn More" class="red" />
                        </div>-->
 				</li>
 				<!--         <li>
-                           <img src="__PUBLIC__/Web/images/content/slide_02.jpg" alt="" />
+                           <img src="/Public/Web/images/content/slide_02.jpg" alt="" />
                            <div class="flex-caption">
                                <h3>Unique page layouts</h3> <p>Mauris sodales neque vitae justo sollicitudin aliquet sit amet diam. Curabitur sed fermentum dolor.</p> <input type="submit" value="Learn More" class="red" />
                            </div>
                          </li>
                          <li>
-                           <img src="__PUBLIC__/Web/images/content/slide_03.jpg" alt="" />
+                           <img src="/Public/Web/images/content/slide_03.jpg" alt="" />
                            <div class="flex-caption">
                                <h3>Even more innovation</h3> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dui orci, dapibus non luctus, ultrices vel nunc. Donec lacinia mattis erat sit amet blandit.</p> <input type="submit" value="Learn More" class="red" />
                            </div>
@@ -191,7 +191,7 @@
 				</li>
 				<li>
 					<a href="./portfolio_details.html" class="project-item">
-						<img src="__PUBLIC__/Web/images/content/project_4_06.jpg" alt="" />
+						<img src="/Public/Web/images/content/project_4_06.jpg" alt="" />
 						<div class="overlay">
 							<h5>Connecting pictures</h5>
 							<p>Motion Graphics</p>
@@ -200,7 +200,7 @@
 				</li>
 				<li>
 					<a href="./portfolio_details.html" class="project-item">
-						<img src="__PUBLIC__/Web/images/content/project_4_07.jpg" alt="" />
+						<img src="/Public/Web/images/content/project_4_07.jpg" alt="" />
 						<div class="overlay">
 							<h5>Real-world workflow</h5>
 							<p>Artwork</p>
@@ -218,7 +218,7 @@
 				</li>
 				<li>
 					<a href="./portfolio_details.html" class="project-item">
-						<img src="__PUBLIC__/Web/images/content/project_4_09.jpg" alt="" />
+						<img src="/Public/Web/images/content/project_4_09.jpg" alt="" />
 						<div class="overlay">
 							<h5>Through the roads</h5>
 							<p>Animation</p>
@@ -227,7 +227,7 @@
 				</li>
 				<li>
 					<a href="./portfolio_details.html" class="project-item">
-						<img src="__PUBLIC__/Web/images/content/project_4_10.jpg" alt="" />
+						<img src="/Public/Web/images/content/project_4_10.jpg" alt="" />
 						<div class="overlay">
 							<h5>The past</h5>
 							<p>Print Design</p>
@@ -240,7 +240,7 @@
 			<ul class="project-carousel" style="margin-left: 10%;">
 				<li>
 					<a href="./portfolio_details.html" class="project-item">
-						<img src="__PUBLIC__/Web/images/content/project_4_06.jpg" alt="" />
+						<img src="/Public/Web/images/content/project_4_06.jpg" alt="" />
 						<div class="overlay">
 							<h5>Connecting pictures</h5>
 							<p>Motion Graphics</p>
@@ -249,7 +249,7 @@
 				</li>
 				<li>
 					<a href="./portfolio_details.html" class="project-item">
-						<img src="__PUBLIC__/Web/images/content/project_4_07.jpg" alt="" />
+						<img src="/Public/Web/images/content/project_4_07.jpg" alt="" />
 						<div class="overlay">
 							<h5>Real-world workflow</h5>
 							<p>Artwork</p>
@@ -267,7 +267,7 @@
 				</li>
 				<li>
 					<a href="./portfolio_details.html" class="project-item">
-						<img src="__PUBLIC__/Web/images/content/project_4_09.jpg" alt="" />
+						<img src="/Public/Web/images/content/project_4_09.jpg" alt="" />
 						<div class="overlay">
 							<h5>Through the roads</h5>
 							<p>Animation</p>
@@ -276,7 +276,7 @@
 				</li>
 				<li>
 					<a href="./portfolio_details.html" class="project-item">
-						<img src="__PUBLIC__/Web/images/content/project_4_10.jpg" alt="" />
+						<img src="/Public/Web/images/content/project_4_10.jpg" alt="" />
 						<div class="overlay">
 							<h5>The past</h5>
 							<p>Print Design</p>
@@ -360,11 +360,11 @@
 		<!-- Logo List -->
 		<div class="logo-list">
 			<ul>
-				<li><a href="./index.html"><div class="bw-wrapper"><img src="__PUBLIC__/Web/images/content/logo_list_01.png" alt="" /></div></a></li>
-				<li><a href="./index.html"><div class="bw-wrapper"><img src="__PUBLIC__/Web/images/content/logo_list_02.png" alt="" /></div></a></li>
-				<li><a href="./index.html"><div class="bw-wrapper"><img src="__PUBLIC__/Web/images/content/logo_list_03.png" alt="" /></div></a></li>
-				<li><a href="./index.html"><div class="bw-wrapper"><img src="__PUBLIC__/Web/images/content/logo_list_04.png" alt="" /></div></a></li>
-				<li><a href="./index.html"><div class="bw-wrapper"><img src="__PUBLIC__/Web/images/content/logo_list_05.png" alt="" /></div></a></li>
+				<li><a href="./index.html"><div class="bw-wrapper"><img src="/Public/Web/images/content/logo_list_01.png" alt="" /></div></a></li>
+				<li><a href="./index.html"><div class="bw-wrapper"><img src="/Public/Web/images/content/logo_list_02.png" alt="" /></div></a></li>
+				<li><a href="./index.html"><div class="bw-wrapper"><img src="/Public/Web/images/content/logo_list_03.png" alt="" /></div></a></li>
+				<li><a href="./index.html"><div class="bw-wrapper"><img src="/Public/Web/images/content/logo_list_04.png" alt="" /></div></a></li>
+				<li><a href="./index.html"><div class="bw-wrapper"><img src="/Public/Web/images/content/logo_list_05.png" alt="" /></div></a></li>
 			</ul>
 		</div>
 		<!-- /Logo List -->
@@ -378,7 +378,7 @@
 
 			<!-- About -->
 			<div class="one-fourth">
-				<a href="./index.html" class="logo"><img src="__PUBLIC__/Web/images/logo_footer.png" alt="" /></a>
+				<a href="./index.html" class="logo"><img src="/Public/Web/images/logo_footer.png" alt="" /></a>
 				<p>Proin fermentum sollicitudin ante, sed tempor eros molestie id. Donec volutpat odio eu mi imperdiet nec laoreet diam venenatis. Nunc ac purus aliquet mauris interdum accumsan.</p>
 			</div>
 			<!-- /About -->
@@ -412,14 +412,14 @@
 			<div class="one-fourth last">
 				<h5>Photo Stream</h5>
 				<ul class="photo-stream">
-					<li><a href="./index.html"><img src="__PUBLIC__/Web/images/content/photo_stream_01.jpg" alt="" /></a></li>
-					<li><a href="./index.html"><img src="__PUBLIC__/Web/images/content/photo_stream_02.jpg" alt="" /></a></li>
-					<li><a href="./index.html"><img src="__PUBLIC__/Web/images/content/photo_stream_03.jpg" alt="" /></a></li>
-					<li><a href="./index.html"><img src="__PUBLIC__/Web/images/content/photo_stream_04.jpg" alt="" /></a></li>
-					<li><a href="./index.html"><img src="__PUBLIC__/Web/images/content/photo_stream_05.jpg" alt="" /></a></li>
-					<li><a href="./index.html"><img src="__PUBLIC__/Web/images/content/photo_stream_06.jpg" alt="" /></a></li>
-					<li><a href="./index.html"><img src="__PUBLIC__/Web/images/content/photo_stream_07.jpg" alt="" /></a></li>
-					<li><a href="./index.html"><img src="__PUBLIC__/Web/images/content/photo_stream_08.jpg" alt="" /></a></li>
+					<li><a href="./index.html"><img src="/Public/Web/images/content/photo_stream_01.jpg" alt="" /></a></li>
+					<li><a href="./index.html"><img src="/Public/Web/images/content/photo_stream_02.jpg" alt="" /></a></li>
+					<li><a href="./index.html"><img src="/Public/Web/images/content/photo_stream_03.jpg" alt="" /></a></li>
+					<li><a href="./index.html"><img src="/Public/Web/images/content/photo_stream_04.jpg" alt="" /></a></li>
+					<li><a href="./index.html"><img src="/Public/Web/images/content/photo_stream_05.jpg" alt="" /></a></li>
+					<li><a href="./index.html"><img src="/Public/Web/images/content/photo_stream_06.jpg" alt="" /></a></li>
+					<li><a href="./index.html"><img src="/Public/Web/images/content/photo_stream_07.jpg" alt="" /></a></li>
+					<li><a href="./index.html"><img src="/Public/Web/images/content/photo_stream_08.jpg" alt="" /></a></li>
 				</ul>
 			</div>
 			<!-- /Photo Stream -->

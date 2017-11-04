@@ -2,7 +2,7 @@
 // 本类由系统自动生成，仅供测试用途
 namespace Home\Model;
 use Think\Model;
-class CompanydepartmentModel extends Model {
+class DepartmentModel extends Model {
     /*
      * 查询公司部门*/
     public function listData($where){

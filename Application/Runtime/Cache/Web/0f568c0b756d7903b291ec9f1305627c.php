@@ -1,22 +1,22 @@
-
+<?php if (!defined('THINK_PATH')) exit();?>
 <!DOCTYPE html>
 <!-- saved from url=(0060)http://hovertree.com/login.php?gotopage=index.php -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>登录</title>
-    <link type="text/css" rel="stylesheet" href="__PUBLIC__/Web/css/login.css">
-    <link type="text/css" rel="stylesheet" href="__PUBLIC__/Web/css/drag.css">
-    <script type="text/javascript" src="__PUBLIC__/Web/js//jquery-1.12.1.min.js"></script>
-    <script type="text/javascript" src="__PUBLIC__/Web/js/login.js"></script>
-    <script type="text/javascript" src="__PUBLIC__/Web/js/jquery.slideunlock.js"></script>
-    <script type="text/javascript" src="__PUBLIC__/Web/js/drag.js"></script>
-    <script type="text/javascript" src="__PUBLIC__/Web/js/layer/2.4/layer.js"></script>
+    <link type="text/css" rel="stylesheet" href="/Public/Web/css/login.css">
+    <link type="text/css" rel="stylesheet" href="/Public/Web/css/drag.css">
+    <script type="text/javascript" src="/Public/Web/js//jquery-1.12.1.min.js"></script>
+    <script type="text/javascript" src="/Public/Web/js/login.js"></script>
+    <script type="text/javascript" src="/Public/Web/js/jquery.slideunlock.js"></script>
+    <script type="text/javascript" src="/Public/Web/js/drag.js"></script>
+    <script type="text/javascript" src="/Public/Web/js/layer/2.4/layer.js"></script>
 </head>
 <body>
 <div id="head">
     <div style="background-color: #ffffff;float:left">
-        <img src="__PUBLIC__/Web/images/logo.png" style="width:300px;height:100px"/>
+        <img src="/Public/Web/images/logo.png" style="width:300px;height:100px"/>
     </div>
     <div id="right">
        <ul>
@@ -38,9 +38,9 @@
         <div class="content">
             <div class="con_left">
                 <p>登录之后您可以：</p><br>
-                <h2><img src="__PUBLIC__/Web/images/zhibiao.png" style="width:20px;height: 20px;"/>更便捷的生成简历或查阅简历；</h2><br>
-                <h2><img src="__PUBLIC__/Web/images/zhibiao.png" style="width:20px;height: 20px;"/>更便捷的寻求职位或招聘人才；</h2><br>
-                <h2><img src="__PUBLIC__/Web/images/zhibiao.png" style="width:20px;height: 20px;"/>更便捷的了解行业信息；</h2><br>
+                <h2><img src="/Public/Web/images/zhibiao.png" style="width:20px;height: 20px;"/>更便捷的生成简历或查阅简历；</h2><br>
+                <h2><img src="/Public/Web/images/zhibiao.png" style="width:20px;height: 20px;"/>更便捷的寻求职位或招聘人才；</h2><br>
+                <h2><img src="/Public/Web/images/zhibiao.png" style="width:20px;height: 20px;"/>更便捷的了解行业信息；</h2><br>
             </div>
             <div class="con_right">
                 <div class="con_r_top"><a href="javascript:;" class="left" style="color: rgb(153, 153, 153); border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(222, 222, 222);">微信登录</a> <a href="javascript:;" class="right" style="color: rgb(51, 51, 51); border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(46, 85, 142);">登录管理</a></div>
@@ -49,7 +49,7 @@
                         <div class="erweima">
                             <div class="qrcode">
                                 <div id="output" style="width: 100%; position: relative">
-                                    <img src="__PUBLIC__/Web/images/ewm.jpg" style="width: 170px; height: 170px">
+                                    <img src="/Public/Web/images/ewm.jpg" style="width: 170px; height: 170px">
                                 </div>
                             </div>
                         </div>
@@ -127,4 +127,3 @@
         })
     }
 </script>
-

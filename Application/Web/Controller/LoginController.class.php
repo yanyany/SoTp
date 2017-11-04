@@ -8,10 +8,4 @@ class LoginController extends Controller {
     public function index(){
 	  $this->display();
     }
-    /*
-     * 注册
-     */
-    public function reg(){
-      $this->display();
-    }
 }

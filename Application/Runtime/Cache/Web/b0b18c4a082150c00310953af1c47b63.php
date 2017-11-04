@@ -1,16 +1,16 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
 <head>
     <title>注册</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <link rel="stylesheet" href="__PUBLIC__/Web/css/csh.css" />
-    <link rel="stylesheet" href="__PUBLIC__/Web/css/muban.css" />
-    <link rel="stylesheet" href="__PUBLIC__/Web/css/zhuce.css" />
+    <link rel="stylesheet" href="/Public/Web/css/csh.css" />
+    <link rel="stylesheet" href="/Public/Web/css/muban.css" />
+    <link rel="stylesheet" href="/Public/Web/css/zhuce.css" />
 </head>
 <body>
 <div id="container">
     <div id="header">
-        <div id="logo"><a href="#"><img src="__PUBLIC__/Web/images/logo.png" height="70px" alt="logo" /></a></div><ul>
+        <div id="logo"><a href="#"><img src="/Public/Web/images/logo.png" height="70px" alt="logo" /></a></div><ul>
         <li><a href="#">我的账号</a></li>
         <li><a href="#">我的信箱</a></li>
         <li><a href="#">我的投递</a></li>
